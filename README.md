@@ -57,7 +57,15 @@
 </ul>
 
 <h2 id="autor">🦸 Autor</h2>
-
+<table>
+ <tr>
+  <td align="center">
+   <a href="https://github.com/alcamarano">
+    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69219821?v=4" width="100px;" alt=""/><br/><sub><b>Augusto Lima<br/>Camarano</b></sub>
+   </a>
+  </td>
+ </tr>
+</table>
 
 <h2 id="licenca">📝 Licença</h2>
 <p>
