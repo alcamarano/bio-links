@@ -9,6 +9,8 @@
  <a href="#licenca">Licença</a>
 </p>
 
+<h3 align="center">Para acessar o projeto, <a href="https://alcamarano.github.io/bio-links/" target="_blank" title="Bio Link">clique aqui</a>.</h3>
+
 <h2 id="sobre">💻 Sobre o projeto</h2>
 <p>
   O Bio Link é um projeto que desenvolvi para centralizar e organizar todos os meus links importantes em um único lugar, facilitando o acesso às minhas redes sociais, portfólio, conteúdos e muito mais. Com uma interface intuitiva e personalizável, o Bio Link permite que eu compartilhe uma página prática e moderna, especialmente criada para meus seguidores e contatos.
