@@ -1,0 +1,58 @@
+/*CSS Reset*/
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+    text-decoration: none;
+    list-style: none;
+    letter-spacing: 1px;
+}
+/*Variáveis para as cores utilizadas*/
+:root {
+    --color-bg-main: #000100;
+    --color-bg-button: #22456A;
+    --color-bg-button-hover: #;
+    --color-bg-button-active: #;
+    --color-text: #f3f3f3;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    background-color: var(--color-bg-main);
+    color: var(--color-text);
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+}
+/*Importar fonte do diretório - Gotham Bold*/
+@font-face {
+    font-family: Gotham_Bold;
+    src: local(Gotham_Bold), url(../font/Gotham-Bold.otf)
+}
+/*Importar fonte do diretório - Gotham Medium*/
+@font-face {
+    font-family: Gotham_Medium;
+    src: local(Gotham_Medium), url(../font/Gotham-Medium.otf)
+}
+/*Importar fonte do diretório - Gotham Light*/
+@font-face {
+    font-family: Gotham_Light;
+    src: local(Gotham_Light), url(../font/Gotham-Light.otf)
+}
+/*Seletor de classe para a fonte - Gotham_Bold*/
+.font__gotham_bold {
+    font-family: Gotham_Bold;
+}
+/*Seletor de classe para a fonte - Gotham_Medium*/
+.font__gotham_medium {
+    font-family: Gotham_Medium;
+}
+/*Seletor de classe para a fonte - Gotham_Light*/
+.font__gotham_light {
+    font-family: Gotham_Light;
+}
