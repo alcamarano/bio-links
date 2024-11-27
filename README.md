@@ -45,7 +45,7 @@
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
-<img src="assets/image/mobile.jpg" alt="Layout do projeto no smartphone.">
+<img src="assets/image/Mockup.jpg" alt="Layout do projeto no smartphone.">
 
 <h2 id="tecnologias">🛠 Tecnologias</h2>
 <p>
