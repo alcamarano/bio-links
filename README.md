@@ -13,7 +13,7 @@
 
 <h2 id="sobre">💻 Sobre o projeto</h2>
 <p>
-  O Bio Link é um projeto que desenvolvi para centralizar e organizar todos os meus links importantes em um único lugar, facilitando o acesso às minhas redes sociais, portfólio, conteúdos e muito mais. Com uma interface intuitiva e personalizável, o Bio Link permite que eu compartilhe uma página prática e moderna, especialmente criada para meus seguidores e contatos.
+  O Bio Link's é um projeto que desenvolvi para centralizar e organizar todos os meus links importantes em um único lugar, facilitando o acesso às minhas redes sociais, portfólio, conteúdos e muito mais. Com uma interface intuitiva e personalizável, o Bio Link permite que eu compartilhe uma página prática e moderna, especialmente criada para meus seguidores e contatos.
 </p>
 <p>
   A ideia do projeto é reunir todas as minhas informações em uma única página otimizada, garantindo que minha audiência encontre rapidamente o que procura, seja para acessar minhas redes sociais, blog, site pessoal ou outras plataformas. Ideal para criadores de conteúdo, empreendedores, freelancers, ou para quem, como eu, precisa facilitar a navegação e o acesso aos seus links de forma rápida e organizada.
@@ -27,12 +27,12 @@
   <li><strong>Acesso rápido e prático:</strong> um link único e fácil de compartilhar em todas as plataformas.</li>
 </ul>
 <p>
-  Com o Bio Link, deixo o acesso ao meu conteúdo mais eficiente e acessível, criando uma experiência simplificada para quem deseja se conectar comigo.
+  Com o Bio Link's, deixo o acesso ao meu conteúdo mais eficiente e acessível, criando uma experiência simplificada para quem deseja se conectar comigo.
 </p>
 
 <h2 id="funcionalidades">⚙️ Funcionalidades</h2>
 <p>
-  O Bio Link é minha página pessoal de links, pensada para centralizar e organizar o acesso a todas as minhas plataformas e conteúdos de forma prática e personalizada. Confira as principais funcionalidades:
+  O Bio Link's é minha página pessoal de links, pensada para centralizar e organizar o acesso a todas as minhas plataformas e conteúdos de forma prática e personalizada. Confira as principais funcionalidades:
 </p>
 <ul>
   <li>Permite adicionar, organizar e editar meus links com facilidade, garantindo que as informações mais importantes estejam sempre à mão para quem visita minha página;</li>
@@ -41,7 +41,7 @@
   <li>Possibilita adicionar imagens ou vídeos para enriquecer a página e torná-la mais interessante e visualmente dinâmica.</li>
 </ul>
 <p>
-  Essas funcionalidades fazem do Bio Link uma ferramenta pessoal e prática, que me ajuda a organizar e compartilhar todos os meus links em um só lugar, facilitando o acesso para quem deseja acompanhar meu conteúdo e se conectar comigo.
+  Essas funcionalidades fazem do Bio Link's uma ferramenta pessoal e prática, que me ajuda a organizar e compartilhar todos os meus links em um só lugar, facilitando o acesso para quem deseja acompanhar meu conteúdo e se conectar comigo.
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
@@ -49,12 +49,11 @@
 
 <h2 id="tecnologias">🛠 Tecnologias</h2>
 <p>
-  O Bio Link foi desenvolvido com tecnologias modernas e amplamente utilizadas na criação de interfaces web. Abaixo estão as principais ferramentas e linguagens aplicadas para tornar este projeto funcional e visualmente atraente:
+  O Bio Link's foi desenvolvido com tecnologias modernas e amplamente utilizadas na criação de interfaces web. Abaixo estão as principais ferramentas e linguagens aplicadas para tornar este projeto funcional e visualmente atraente:
 </p>
 <ul>
   <li><strong>HTML5:</strong> utilizado para estruturar e organizar o conteúdo da página de forma semântica e acessível, garantindo uma base sólida e bem organizada para todos os elementos.</li>
   <li><strong>CSS3:</strong> aplicado para estilizar e personalizar a página, criando um design responsivo e ajustável. Através do CSS3, pude incorporar cores, fontes, ícones e animações que tornam a experiência visual mais atrativa.</li>
-  <li><strong>Javascript:</strong> utilizado para adicionar interatividade e funcionalidades dinâmicas à página, proporcionando uma navegação mais fluida e recursos mais atraentes para o usuário.</li>
   <li><strong>Visual Studio Code:</strong> utilizado como o editor de código principal, proporcionando um ambiente eficiente e produtivo para o desenvolvimento do projeto.</li>
   <li><strong>Figma:</strong> utilizado para criar os protótipos e layouts visuais da página, garantindo que o design fosse bem estruturado e esteticamente agradável antes da implementação.</li>
 </ul>
