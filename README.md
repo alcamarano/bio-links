@@ -46,6 +46,7 @@
 
 <h2 id="layout">🎨 Layout</h2>
 <img src="assets/img/Mockup.jpg" alt="Layout do projeto no smartphone.">
+<h3 align="center">Para acessar a apresentação do projeto, <a href="https://www.behance.net/gallery/213557715/Bio-Links-20" target="_blank" title="Bio Link">clique aqui</a>.</h3>
 
 <h2 id="tecnologias">🛠 Tecnologias e Softwares</h2>
 <p>
