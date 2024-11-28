@@ -47,7 +47,7 @@
 <h2 id="layout">🎨 Layout</h2>
 <img src="assets/img/Mockup.jpg" alt="Layout do projeto no smartphone.">
 
-<h2 id="tecnologias">🛠 Tecnologias</h2>
+<h2 id="tecnologias">🛠 Tecnologias e Softwares</h2>
 <p>
   O Bio Link's foi desenvolvido com tecnologias modernas e amplamente utilizadas na criação de interfaces web. Abaixo estão as principais ferramentas e linguagens aplicadas para tornar este projeto funcional e visualmente atraente:
 </p>
