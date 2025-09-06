@@ -7,9 +7,16 @@
 }
 
 :root {
-
+    --color-background-body: #000100;
+    --color-background-primary: #1D1D1D;
+    --color-text: #F3F3F3;
 }
 
 html {
     scroll-behavior: smooth;
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    background-color: var(--color-background-body);
 }
