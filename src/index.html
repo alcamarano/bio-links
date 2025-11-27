@@ -1,11 +1,66 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+    <!--Metadados-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Olá, sou Augusto Lima Camarano, desenvolvedor front-end apaixonado por tecnologia e inovação. Reuni neste espaço minhas redes sociais e meios de contato para facilitar nossa conexão.">
+    <meta name="keywords" content="desenvolvedor, desenvolvedor web, desenvolvedor front-end, web developer, dev, developer, front-end, html, css, js, git, github, linkedin, instagram, x, twitter, e-mail, contato, contact">
+    <meta name="author" content="Augusto Lima Camarano | @alcamarano">
+    <!--Fonte-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <!--CSS-->
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <!--Título-->
     <title>Bio Links</title>
 </head>
-    <body>
-        
+    <body class="flex">
+        <!--Cabeçalho-->
+        <header class="header flex">
+            <figure class="header__figure">
+                <img src="assets/images/alcamarano.webp" alt="Ciclista com capacete preto e camisa com bandeira do Brasil no ombro tira selfie ao lado de bicicleta em trilha rochosa próxima a trilhos de trem, com paisagem montanhosa encoberta pela neblina ao fundo">
+            </figure>
+            <h1>Augusto Lima Camarano</h1>
+            <h2>Desenvolvedor Front-end</h2>
+        </header>
+        <!--Principal-->
+        <main class="main">
+            <ul class="main__list flex">
+                <li>
+                    <a href="https://www.linkedin.com/in/alcamarano/" target="_blank" title="Conheça o meu perfil no LinkedIn">
+                        <img src="assets/icons/linkedin.png" alt="Logo do LinkedIn"><p>LinkedIn</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/alcamarano" target="_blank" title="Conheça o meu perfil no Github">
+                        <img src="assets/icons/github.png" alt="Logo do Github"><p>Github</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/alcamarano/" target="_blank" title="Conheça o meu perfil no Instagram">
+                        <img src="assets/icons/instagram.png" alt="Logo do Instagram"><p>Instagram</p>
+                    </a>
+                </li>
+                <li>
+                    <a href=https://x.com/alcamarano"" target="_blank" title="Conheça o meu perfil no X (Twitter)">
+                        <img src="assets/icons/twitter.png" alt="Logo do X (antigo Twitter)"><p>X (Twitter)</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="mailto:contatocamarano@gmail.com" title="Entre em contato pelo e-mail">
+                        <img src="assets/icons/e-mail.png" alt="Logo de uma caixa de e-mail (envelope)"><p>E-mail</p>
+                    </a>
+                </li>
+            </ul>
+        </main>
+        <!--Rodapé-->
+        <footer class="footer">
+            <p>&copy; <span id="spanYear"></span> alcamarano. Todos os direitos reservados.</p>
+        </footer>
+        <!--Javascript-->
+        <script src="js/main.js"></script>
     </body>
 </html>

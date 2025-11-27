@@ -1,0 +1,91 @@
+/*Variáveis*/
+    :root {
+        --color-white: #F3F3F3;
+        --color-blue: #027EC4;
+        --color-blue-bg-body: #003856;
+    }
+
+/*Display flex para os elementos*/
+    .flex {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+/*Corpo*/
+    body {
+        width: 100vw;
+        height: 100vh;
+        gap: 20px;
+        background-color: var(--color-blue-bg-body);
+        color: var(--color-white);
+        letter-spacing: .7px;
+    }
+
+/*Cabeçalho, principal e rodapé*/
+    .header, .main, .footer {
+        width: 300px;
+        text-align: center;
+    }
+
+/*Cabeçalho*/
+    .header__figure img {
+        width: 240px;
+        border-radius: 50%;
+        margin-bottom: 10px;
+        border: 2px solid var(--color-white);
+    }
+
+    .header h1 {
+        font-size: 2rem;
+        font-weight: 600;
+        line-height: 38px;
+    }
+
+    .header h2 {
+        margin-top: 8px;
+        font-size: 1rem;
+        font-weight: 400;
+    }
+
+/*Principal*/
+    .main__list {
+        gap: 10px;
+    }
+
+    .main__list li {
+        width: 100%;
+        height: 50px;
+        background-color: var(--color-blue);
+        border-radius: 5px;
+    }
+
+    .main__list a {
+        width: 100%;
+        height: 100%;
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        font-size: .89rem;
+        color: var(--color-white);
+    }
+
+    .main__list p {
+        margin-top: 4px;
+    }
+
+/*Rodapé*/
+    .footer p {
+        font-size: .89rem;
+        opacity: .3;
+        text-align: center;
+    }
+
+/*Responsividade - máximo de 350px de largura*/
+    @media screen and (max-width: 350px) {
+        .header, .main, .footer {
+            width: 250px;
+        }
+    }
