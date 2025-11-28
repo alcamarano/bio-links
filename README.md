@@ -17,7 +17,7 @@ Abaixo está uma visualização da página em funcionamento, mostrando como o Bi
 
 ## 🌐 Acessando a página
 
-O Bio Link's já está disponível online. Você pode visualizar a página [clicando aqui](URL).
+O Bio Link's já está disponível online. Você pode visualizar a página [clicando aqui](https://bio-links.vercel.app/).
 
 ## 👤 Autor
 
